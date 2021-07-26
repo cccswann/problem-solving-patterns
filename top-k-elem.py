@@ -41,3 +41,6 @@ def main():
         str(find_k_largest_numbers([5, 12, 11, -1, 12], 3)))
 
 main()
+
+# Time: O(N logK)
+# Space: O(K) top K numbers in the heap
