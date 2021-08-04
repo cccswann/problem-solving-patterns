@@ -1,4 +1,4 @@
-# problem-solving-patterns
+# Popular Coding Problem Solving Patterns
 
 * [Fast & Slow Pointers](fast-slow.py)
 * [Merge Interval](merge-interval.py)
