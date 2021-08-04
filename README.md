@@ -5,4 +5,5 @@
 * [Sliding Window](sliding-window.py)
 * [Bitwise XOR](bitwise-xor.py)
 * [In Place Reversal](in-place-reversal.py)
-* [Top K Element](top-k-element.py)
+* [Top K Element](top-k-elem.py)
+* [Two Pointers](two-pointers.py)
