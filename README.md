@@ -9,8 +9,10 @@
 * [Two Pointers](two-pointers.py)
 
 ## Data Structures Overview
-
-### Array
+<details>
+    <summary><strong>Array</strong> </summary>
+    
+## Array
 
 - A list of similar values
 - Can be used to store anything
@@ -34,8 +36,12 @@
     - An integer which corresponds to an element within the array
 - A two-dimensional array is an array with an array at each index
     - essentially a matrix
+</details>
 
-### Stack
+<details>
+    <summary><strong>Stack</strong> </summary>
+    
+## Stack
 
 - A data structure in which we add elements and remove elements according to the LIFO (last in first out) principle
     - only one way in and one way out for the data
@@ -44,8 +50,12 @@
     - pop - remove an element from the top of the stack (Pop())
     - peek - allows you to get the value at the top of the list without removing it
     - contains - searching throughout the stack (Contains(Object)) - w/o having to take elements off the stack
+</details>
 
-### Queue
+<details>
+    <summary><strong>Queue</strong> </summary>
+    
+## Queue
 
 - The sequential access data structure which follows the FIFO methodology (First In First Out)
 - Add to the back and remove from the front
@@ -54,5 +64,7 @@
     - Dequeue - Removes element from the head of the queue
     - Peek - returns the object that's at the forefront of the queue without removing it
     - Contains - returns whether or not the queue contains an object (boolean)
+</details>
+
 
 
