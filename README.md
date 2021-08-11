@@ -35,7 +35,6 @@
 - To get information, we use a **numerical index**
     - An integer which corresponds to an element within the array
 - A two-dimensional array is an array with an array at each index
-    - essentially a matrix
 </details>
 
 <details>
